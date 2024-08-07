@@ -2,7 +2,7 @@
 title: 链接
 top_img: https://img.090227.xyz/file/ae62475a131f3734a201c.png
 date: 2024-07-25 21:46:01
-type:
+type: "link"
 updated:
 comments:
 description:
